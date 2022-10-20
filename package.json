@@ -18,7 +18,7 @@
     "react-native-maps": "^0.23.0",
     "react-native-paho-mqtt": "^0.1.1",
     "react-native-paper": "^2.6.1",
-    "react-native-reanimated": "^1.0.0-alpha.12",
+    "react-native-reanimated": "^2.10.0",
     "react-native-responsive-fontsize": "^0.1.8",
     "react-native-router-flux": "^4.0.6",
     "react-native-side-menu": "^1.1.3",
